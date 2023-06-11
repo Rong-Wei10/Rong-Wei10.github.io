@@ -1,8 +1,8 @@
 
 
-$('document').ready(function (){
-    alert('Welcome to Rose Portfolio!');
-});
+// $('document').ready(function (){
+//     alert('Welcome to Rose Portfolio!');
+// });
 
 function validateForm(){
     if (document.forms[0].myName.value == ""){
