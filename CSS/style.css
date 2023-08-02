@@ -180,13 +180,13 @@ nav a:active{
 
 .banner-text{
     width: 60%;
-    margin: 30px auto;
+    margin: 15px auto;
     color: #182F5E;
 }
 
 .banner-text h1{
     font-size: 50px;
-    padding-top: 100px;
+    padding-top: 150px;
     margin: 0 auto;
     line-height: 1.3em;
 }
